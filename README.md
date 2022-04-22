@@ -1,10 +1,10 @@
 ## #3 Terceira edicão da [Imersão Dados da Alura](https://www.alura.com.br/imersao-dados)
 
+![](https://www.alura.com.br/assets/img/imersoes/imersao-dados-3ed/og-imersaodados.1647533644.jpg)
+
 ### [Repositório do projeto oficial](https://github.com/alura-cursos/imersaodados3)
 
 ### [Repositório do desafio final](https://github.com/alura-cursos/imersao-dados-desafio-final)
-
-![](https://www.alura.com.br/assets/img/imersoes/imersao-dados-3ed/og-imersaodados.1647533644.jpg)
 
 ---
 
@@ -44,9 +44,9 @@ Após a compreensão da correlação dos dados, é proposto um modelo de Machine
 :---:|:----|
 | Aula 1 | [Python, Pandas e Pharmacia](https://drive.google.com/file/d/1NuII7kQgoXWEDhr3f8E9a6owOSGDnL_r/view?usp=sharing)|
 | Aula 2 | [Estatísticas, dados e Distribuições](https://drive.google.com/file/d/1s5Ugj6D8OpgZztZI_By4dQ72mcsfucBl/view?usp=sharing)|
-| Aula 3 | [Correlações e casualidades|](https://drive.google.com/file/d/11QdqyySAjhpa_69VvYOfwAP2-fzZ9w4e/view?usp=sharing)|
-| Aula 4 | [Merge e análise de resultados|](https://colab.research.google.com/drive/1fQLBdspCCpKwPXYKI0u8T9bX7LDg47Yg?usp=sharing)|
-| Aula 5 | [Machine Learning e Sci-kit Learning|](https://drive.google.com/file/d/1VhVP7Imj2fXDvvj4JDKYXUk9gCIV9RrQ/view?usp=sharing)|
+| Aula 3 | [Correlações e casualidades](https://drive.google.com/file/d/11QdqyySAjhpa_69VvYOfwAP2-fzZ9w4e/view?usp=sharing)|
+| Aula 4 | [Merge e análise de resultados](https://colab.research.google.com/drive/1fQLBdspCCpKwPXYKI0u8T9bX7LDg47Yg?usp=sharing)|
+| Aula 5 | [Machine Learning e Sci-kit Learning](https://drive.google.com/file/d/1VhVP7Imj2fXDvvj4JDKYXUk9gCIV9RrQ/view?usp=sharing)|
 
 ---
 
